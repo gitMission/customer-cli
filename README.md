@@ -4,3 +4,5 @@
 its cool!
 
 its awesome
+
+adding index.js
