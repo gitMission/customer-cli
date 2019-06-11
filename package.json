@@ -1,0 +1,19 @@
+{
+  "name": "customer-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "start": "nodemon commands.js i"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1",
+    "mongoose": "^5.5.14",
+    "nodemon": "^1.19.1"
+  }
+}
