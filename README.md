@@ -1,4 +1,4 @@
-# Customer CLI
+# Customer CLI - developed with Node.js
 
 After cloning, simply run npm start or just
 
